@@ -8,4 +8,6 @@ layout: page
 permalink: >
   http://www.hightechdevs.com/wpms-html-sitemap/
 published: true
+yst_prominent_words_version:
+  - "1"
 ---
