@@ -1,7 +1,7 @@
 ---
 ID: 182
 post_title: Home
-author: whitleyblaine
+author: Daniel Merkin
 post_date: 2017-02-06 23:06:25
 post_excerpt: ""
 layout: page
