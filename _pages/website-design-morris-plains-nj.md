@@ -49,6 +49,8 @@ sharing_disabled:
   - "1"
 yst_prominent_words_version:
   - "1"
+wpms_validate_analysis:
+  - ""
 ---
 [cs_content][cs_section parallax="false" style="margin: 0px;padding: 45px 0px 0;"][cs_row inner_container="false" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/1" style="padding: 0px;"][x_text_type prefix="Specializing in... " strings="Custom Websites|Wordpress|SEO|E-commerce" suffix="" tag="h2" type_speed="50" start_delay="1000" back_speed="50" back_delay="3000" loop="true" show_cursor="true" cursor="|" looks_like="h2" class="cs-ta-center" style="color: darkred;"][/cs_column][/cs_row][cs_row inner_container="false" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/1" style="padding: 0px 50px;"][cs_text class="cs-ta-center"]<p style="text-align: center; margin-top: 2em">Let’s face it: in 2017, great web design is a <strong>crucial</strong> asset to your business. At High Tech Devs, we use a powerful piece of software called WordPress to ensure that your business' site is sleek, modern, and fast. In addition, we use SEO (search engine optimization) strategy to improve your search engine ranking, so potential customers find <em>you</em> before your competition. </p>
 
