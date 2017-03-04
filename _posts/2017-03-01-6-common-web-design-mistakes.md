@@ -6,14 +6,14 @@ post_date: 2017-03-01 00:33:04
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.hightechdevs.com/blog/6-common-web-design-mistakes/
+  http://www.hightechdevs.com/uncategorized/6-common-web-design-mistakes
 published: true
 yst_prominent_words_version:
   - "1"
 slide_template:
   - ""
 ---
-Here at <a href="http://hightechdevs.com/">High Tech Web Design</a>, we see a LOT of bad websites. This is because most coders fail to learn proper design skills, and most designers fail to get good at coding. Given the alternative of hiring someone else, these problems are brushed under the rug, leaving the website littered with problems.
+Here at <a href="http://hightechdevs.com/blog">High Tech Web Design</a>, we see a LOT of bad websites. This is because most coders fail to learn proper design skills, and most designers fail to get good at coding. Given the alternative of hiring someone else, these problems are brushed under the rug, leaving the website littered with problems.
 
 If you regularly avoid these 4 common mistakes, you can rest assured that your sites are ahead of the curve. If you don't, no worries -- your newfound awareness will help you avoid making these mistakes in the future.
 <h3>1. Unresponsive text/photos</h3>
