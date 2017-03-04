@@ -6,8 +6,10 @@ post_date: 2017-03-04 15:21:56
 post_excerpt: metaseo_404_page
 layout: page
 permalink: >
-  http://www.hightechdevs.com/wp-meta-seo-404-page/
+  http://www.hightechdevs.com/wp-meta-seo-404-page
 published: true
+yst_prominent_words_version:
+  - "1"
 ---
 <div class="wall" style="background-color: #F2F3F7; border: 30px solid #fff; width: 90%; height: 90%; margin: 0 auto;">
 
