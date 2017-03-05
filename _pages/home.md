@@ -73,10 +73,10 @@ wpms_validate_analysis:
  	<li>Modern Website Design</li>
 </ul>[/cs_block_grid_item][cs_block_grid_item title="Customer Service"]<h3 style="text-align: center;">CUSTOMER SERVICE</h3>
 <ul>
- 	<li style="text-align: left;">Excellent Problem Solving</li>
+ 	<li style="text-align: left;">Excellent Troubleshooting</li>
  	<li style="text-align: left;">24/7 Availability</li>
- 	<li style="text-align: left;">Excellent Communication</li>
- 	<li style="text-align: left;">Dedicated to Your Needs</li>
+ 	<li style="text-align: left;">Clear Communication Skills</li>
+ 	<li style="text-align: left;">Time Management Expertise</li>
 </ul>[/cs_block_grid_item][cs_block_grid_item title="Management"]<h3 style="text-align: center;">MANAGEMENT</h3>
 <ul>
  	<li><span style="color: #000000;">Web Hosting</span></li>
