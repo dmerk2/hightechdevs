@@ -13,7 +13,7 @@ yst_prominent_words_version:
 slide_template:
   - ""
 ---
-Here at <a href="http://hightechdevs.com/blog">High Tech Web Design</a>, we see a LOT of bad websites. This is because most coders fail to learn proper design skills, and most designers fail to get good at coding. Given the alternative of hiring someone else, these problems are brushed under the rug, leaving the website littered with problems.
+Here at <a href="http://hightechdevs.com/blog" title="High Tech Devs Blog" rel="">High Tech Web Design</a>, we see a LOT of bad websites. This is because most coders fail to learn proper design skills, and most designers fail to get good at coding. Given the alternative of hiring someone else, these problems are brushed under the rug, leaving the website littered with problems.
 
 If you regularly avoid these 4 common mistakes, you can rest assured that your sites are ahead of the curve. If you don't, no worries -- your newfound awareness will help you avoid making these mistakes in the future.
 <h3>1. Unresponsive text/photos</h3>
@@ -41,7 +41,7 @@ If you're coding from scratch, be sure to eliminate any unnecessary or buggy cod
 <h3>4. Bad fonts</h3>
 <img class="size-medium wp-image-704 alignleft" src="http://hightechdevs.com/wp-content/uploads/badfonts-1-300x217.png" alt="" width="300" height="217" />
 Unique fonts look great when used well, but the opposite is also true. If your fonts look outdated or inappropriate, they will detract massively from your message. If in doubt, find similar websites and use their fonts. You can inspect the text in your browser's developer tools, and search its CSS rules for 'font-family.' <a href="https://fonts.google.com">Google has a wonderful selection of fonts</a>, and they're free to use! <span style="font-family: 'Curlz MT'; font-size: 1.5em;">One thing to make sure of is that the font matches the mood of the text.</span> I rest my case.
-It is my hope that you found this blog post useful in improving your web design skills. If you are in need of a website, but aren't having an easy time doing it yourself, <a href="http://hightechdevs.com/blog">let us do it for you</a>! You'll be happy with the result -- we guarantee it!
+It is my hope that you found this blog post useful in improving your web design skills. If you are in need of a website, but aren't having an easy time doing it yourself, <a href="http://hightechdevs.com/blog" title="High Tech Devs Blog" rel="">let us do it for you</a>! You'll be happy with the result -- we guarantee it!
 
 &nbsp;
 
