@@ -1,7 +1,7 @@
 ---
 ID: 26
 post_title: About Us
-author: whitleyblaine
+author: hightechdevs
 post_date: 2017-02-06 20:12:28
 post_excerpt: ""
 layout: page
