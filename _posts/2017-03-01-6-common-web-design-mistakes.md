@@ -10,7 +10,9 @@ permalink: >
 published: true
 yst_prominent_words_version:
   - "1"
+  - "1"
 slide_template:
+  - ""
   - ""
 ---
 Here at <a title="High Tech Devs Blog" href="http://hightechdevs.com/blog" rel="">High Tech Web Design</a>, we see a LOT of bad websites. This is because most coders fail to learn proper design skills, and most designers fail to get good at coding. Given the alternative of hiring someone else, these problems are brushed under the rug, leaving the website littered with problems.
@@ -33,7 +35,7 @@ My favorite is <a title="Web Design Colors" href="https://coolors.co" rel="">co
 
 &nbsp;
 <h3>3. Slow loading time</h3>
-<img class="size-medium wp-image-703 alignleft" src="http://hightechdevs.com/wp-content/uploads/5e410d_23f2a5e0fe10471ebfe49046c8ee2132-300x217.jpg" alt="" width="300" height="217" />Unfortunately, people aren't willing to wait 10 seconds foryour page to load. The poor load time <em>already</em> gives off a sketchy vibe; they won't always wait around to see what comes next. One of the biggest culprits for this is having unoptimized images on your site. If your image is a PNG, you can export it as a JPEG, which will often be much smaller. If not, try exporting it with reduced image quality, as long as you are careful not to go too far. This takes off a LOT of size without taking away much image quality.
+Unfortunately, people aren't willing to wait 10 seconds foryour page to load. The poor load time <em>already</em> gives off a sketchy vibe; they won't always wait around to see what comes next. One of the biggest culprits for this is having unoptimized images on your site. If your image is a PNG, you can export it as a JPEG, which will often be much smaller. If not, try exporting it with reduced image quality, as long as you are careful not to go too far. This takes off a LOT of size without taking away much image quality.
 
 Also, if your images are full size from a camera, they are probably way too big. Simply resize them in software like Preview (Mac), Photoshop or GIMP. You might need to do some more research on image optimization in special cases, but for the most part this is enough.
 
