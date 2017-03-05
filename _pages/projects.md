@@ -55,30 +55,30 @@ yst_prominent_words_version:
 <p style="text-align: center;">Below are the most recent websites High Tech Devs created. There are several restaurant websites as well as other projects. To view the current website on the slide, simply click the picture.</p>
 [/cs_text][x_slider animation="slide" slide_time="7000" slide_speed="1000" slideshow="true" random="false" control_nav="false" prev_next_nav="true" no_container="false" ][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://lemon-valley.herokuapp.com/" target="_blank" rel="" title="Lemon Valley"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/lemon-valley.jpg" alt="Lemon Valley" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Lemon Valley!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a title="Lemon Valley" href="https://lemon-valley.herokuapp.com/" target="_blank" rel=""><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/lemon-valley.jpg" alt="Lemon Valley" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Lemon Valley!</span>[/caption]
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://comfy-cafe.herokuapp.com/" target="_blank" rel="" title="Comfy Cafe"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/comfy-cafe.jpg" alt="comfy cafe" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Comfy Cafè!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a title="Comfy Cafe" href="https://comfy-cafe.herokuapp.com/" target="_blank" rel=""><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/comfy-cafe.jpg" alt="comfy cafe" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Comfy Cafè!</span>[/caption]
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://beers-and-burgers.herokuapp.com/" target="_blank" rel="" title="Beers and Burgers"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/beer_burgers.jpg" alt="Burgers and Beers" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Burgers and Beers!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a title="Beers and Burgers" href="https://beers-and-burgers.herokuapp.com/" target="_blank" rel=""><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/beer_burgers.jpg" alt="Burgers and Beers" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Burgers and Beers!</span>[/caption]
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://delizioso-restaurant.herokuapp.com/" target="_blank" rel="" title="Delizioso"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/delizioso.jpg" alt="Delizioso Restaurant" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;"> Delizioso!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a title="Delizioso" href="https://delizioso-restaurant.herokuapp.com/" target="_blank" rel=""><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/delizioso.jpg" alt="Delizioso Restaurant" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;"> Delizioso!</span>[/caption]
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://jerry-and-harveys.herokuapp.com/" target="_blank" rel="" title="Jerry and Harveys"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/jerry_harveys.jpg" alt="Jerry and Harvey's" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Jerry and Harveys!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a title="Jerry and Harveys" href="https://jerry-and-harveys.herokuapp.com/" target="_blank" rel=""><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/jerry_harveys.jpg" alt="Jerry and Harvey's" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Jerry and Harveys!</span>[/caption]
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://news--cloud.herokuapp.com/" target="_blank" rel="" title="Newscloud"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/newsCloud.jpg" alt="News Cloud" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">News Cloud!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a title="Newscloud" href="https://news--cloud.herokuapp.com/" target="_blank" rel=""><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/newsCloud.jpg" alt="News Cloud" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">News Cloud!</span>[/caption]
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://crypdesigns.herokuapp.com/" target="_blank" rel="" title="Crypdesigns"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/crypdesigns.jpg" alt="Crypdesigns" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Crypdesigns!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a title="Crypdesigns" href="https://crypdesigns.herokuapp.com/" target="_blank" rel=""><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/crypdesigns.jpg" alt="Crypdesigns" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Crypdesigns!</span>[/caption]
 
 [/x_slide][/x_slider][/cs_column][/cs_row][/cs_section][/cs_content]
