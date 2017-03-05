@@ -67,7 +67,7 @@ yst_prominent_words_version:
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://delizioso-restaurant.herokuapp.com/" target="_blank" rel="" title="Delizioso"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/delizioso.jpg" alt="Delizioso Restaurant" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;"> Delizioso!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://delizioso-restaurant.herokuapp.com/" target="_blank" rel="nofollow" title="Delizioso"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/delizioso.jpg" alt="Delizioso Restaurant" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;"> Delizioso!</span>[/caption]
 
 [/x_slide][x_slide]
 
