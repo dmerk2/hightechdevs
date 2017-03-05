@@ -55,7 +55,7 @@ yst_prominent_words_version:
 <p style="text-align: center;">Below are the most recent websites High Tech Devs created. There are several restaurant websites as well as other projects. To view the current website on the slide, simply click the picture.</p>
 [/cs_text][x_slider animation="slide" slide_time="7000" slide_speed="1000" slideshow="true" random="false" control_nav="false" prev_next_nav="true" no_container="false" ][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://lemon-valley.herokuapp.com/" target="_blank" rel="nofollow" title="Lemon Valley"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/lemon-valley.jpg" alt="Lemon Valley" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Lemon Valley!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://lemon-valley.herokuapp.com/" target="_blank" rel="" title="Lemon Valley"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/lemon-valley.jpg" alt="Lemon Valley" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Lemon Valley!</span>[/caption]
 
 [/x_slide][x_slide]
 
