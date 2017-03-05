@@ -1,6 +1,6 @@
 ---
 ID: 627
-post_title: 'New to Web Design?  Here&#8217;s 4 HUGE Mistakes You&#8217;re Probably Making &#8212; and How You Can Fix Them!'
+post_title: 'New to Web Design?  Here&#8217;s 4 HUGE Web Design Mistakes You&#8217;re Probably Making'
 author: whitleyblaine
 post_date: 2017-03-01 00:33:04
 post_excerpt: ""
@@ -14,12 +14,16 @@ yst_prominent_words_version:
 slide_template:
   - ""
   - ""
+wpms_validate_analysis:
+  - ""
 ---
+<div id="lo136"><a class="sq_local" title="New to Web Design?  Here's 4 HUGE Mistakes You're Probably Making -- and How You Can Fix Them!" href="http://www.hightechdevs.com/blog/6-common-web-design-mistakes" rel="nofollow">http://hightechdevs.com</a></div>
+<div></div>
 Here at <a title="High Tech Devs Blog" href="http://hightechdevs.com/blog" rel="">High Tech Web Design</a>, we see a LOT of bad websites. This is because most coders fail to learn proper design skills, and most designers fail to get good at coding. Given the alternative of hiring someone else, these problems are brushed under the rug, leaving the website littered with problems.
 
-If you regularly avoid these 4 common mistakes, you can rest assured that your sites are ahead of the curve. If you don't, no worries -- your newfound awareness will help you avoid making these mistakes in the future.
+If you regularly avoid these 4 common <strong>web design mistakes</strong>, you can rest assured that your sites are ahead of the curve. If you don't, no worries -- your newfound awareness will help you avoid making these mistakes in the future.
 <h3>1. Unresponsive text/photos</h3>
-<img class="size-medium wp-image-700 alignleft" src="http://hightechdevs.com/wp-content/uploads/responsive-vs-unresponsive-website-1-300x225.jpg" alt="" width="300" height="225" />
+<img class="alignleft wp-image-700 size-medium" title="unresponsive design" src="http://www.hightechdevs.com/wp-content/uploads/responsive-vs-unresponsive-website-1-300x225.jpg" alt="unresponsive" width="300" height="225" />
 
 Websites that display poorly on mobile devices are <em>everywhere.</em> This is bad news for the people who designed them, because <em>most</em> visitors to a website will be using their phones. If the page doesn't display properly, or at least legibly, users will be quick to leave.
 
@@ -27,7 +31,7 @@ The problem here is typically laziness on the part of the programmer. It is <em
 
 &nbsp;
 <h3>2. Poor color schemes</h3>
-<img class="size-medium wp-image-701 alignleft" src="http://hightechdevs.com/wp-content/uploads/bad-web-design-colors-combination-13-300x165.jpg" alt="" width="300" height="165" />
+<img class="alignleft wp-image-701 size-medium" title="color schemes" src="http://www.hightechdevs.com/wp-content/uploads/bad-web-design-colors-combination-13-300x165.jpg" alt="color schemes" width="300" height="165" />
 
 Seriously, if you don't have an eye for colors, you need to develop it. You should at least learn basic rules about color combining. But you don't have time to do that, you can try using a color scheme generator.
 
