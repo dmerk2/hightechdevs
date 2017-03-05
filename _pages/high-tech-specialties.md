@@ -6,7 +6,7 @@ post_date: 2017-02-06 20:12:08
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.hightechdevs.com/high-tech-specialties/
+  http://www.hightechdevs.com/high-tech-specialties
 published: true
 eg_sources_html5_mp4:
   - ""
