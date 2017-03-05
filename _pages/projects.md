@@ -1,7 +1,7 @@
 ---
 ID: 28
-post_title: Portfolio
-author: whitleyblaine
+post_title: Projects
+author: hightechdevs
 post_date: 2017-02-06 20:12:42
 post_excerpt: ""
 layout: page
