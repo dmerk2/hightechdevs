@@ -29,7 +29,7 @@ The problem here is typically laziness on the part of the programmer. It is <em
 
 Seriously, if you don't have an eye for colors, you need to develop it. You should at least learn basic rules about color combining. But you don't have time to do that, you can try using a color scheme generator.
 
-My favorite is <a href="https://coolors.co">coolors.co</a>. It will automatically generate color schemes at the click of a button, for free.
+My favorite is <a href="https://coolors.co" title="Web Design Colors" rel="">coolors.co</a>. It will automatically generate color schemes at the click of a button, for free.
 
 &nbsp;
 <h3>3. Slow loading time</h3>
