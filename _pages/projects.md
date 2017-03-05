@@ -79,6 +79,6 @@ yst_prominent_words_version:
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://crypdesigns.herokuapp.com/" target="_blank" rel="Crypdesigns"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/crypdesigns.jpg" alt="Crypdesigns" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Crypdesigns!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://crypdesigns.herokuapp.com/" target="_blank" rel="" title="Crypdesigns"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/crypdesigns.jpg" alt="Crypdesigns" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Crypdesigns!</span>[/caption]
 
 [/x_slide][/x_slider][/cs_column][/cs_row][/cs_section][/cs_content]
