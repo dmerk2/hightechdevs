@@ -6,7 +6,7 @@ post_date: 2017-03-01 00:33:04
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.hightechdevs.com/blog/6-common-web-design-mistakes
+  http://www.hightechdevs.com/web-design/6-common-web-design-mistakes
 published: true
 yst_prominent_words_version:
   - "1"
@@ -45,12 +45,12 @@ Also, if your images are full size from a camera, they are probably way too big.
 
 If you're coding from scratch, be sure to eliminate any unnecessary or buggy code, and minify your lengthy files. Also be wary of content hosted elsewhere, perhaps provided to you by a CDN, as well as information retrieved using an API. This content may stopped being delivered at any point due to events outside your control. You need to check your site regularly to ensure they don't have any bugs you've been missing.
 <h3>4. Bad fonts</h3>
-<img class="size-medium wp-image-704 alignleft" src="http://hightechdevs.com/wp-content/uploads/badfonts-1-300x217.png" alt="" width="300" height="217" />
+<img class="size-medium wp-image-704 alignleft" src="http://www.hightechdevs.com/wp-content/uploads/badfonts-1-300x217-1.png" alt="" width="300" height="217" />
 Unique fonts look great when used well, but the opposite is also true. If your fonts look outdated or inappropriate, they will detract massively from your message. If in doubt, find similar websites and use their fonts. You can inspect the text in your browser's developer tools, and search its CSS rules for 'font-family.' <a title="Google Fonts" href="https://fonts.google.com" rel="">Google has a wonderful selection of fonts</a>, and they're free to use! <span style="font-family: 'Curlz MT'; font-size: 1.5em;">One thing to make sure of is that the font matches the mood of the text.</span> I rest my case.
 It is my hope that you found this blog post useful in improving your web design skills. If you are in need of a website, but aren't having an easy time doing it yourself, <a title="High Tech Devs Blog" href="http://hightechdevs.com/blog" rel="">let us do it for you</a>! You'll be happy with the result -- we guarantee it!
 
 &nbsp;
 
-<img class="alignleft wp-image-697 size-full" src="http://hightechdevs.com/wp-content/uploads/14440950_306137739754078_7138612908098277376_n.jpg" width="48" height="48" />
+<img class="alignleft wp-image-697 size-full" src="http://www.hightechdevs.com/wp-content/uploads/14440950_306137739754078_7138612908098277376_n-1.jpg" width="48" height="48" />
 
 <strong>Whitley Horn</strong> is the co-founder of High Tech Devs and a passionate web developer, Bitcoin fanatic and smoothie maker. He uses Wordpress to build most of his professional sites, but loves working on side projects in Node.js. You can contact him at htdevs@gmail.com.
