@@ -1,6 +1,8 @@
 ---
 ID: 182
-post_title: 'Morris Plains NJ Website Design &#8211; High Tech Devs'
+post_title: >
+  Morris Plains NJ Website Design | High
+  Tech Devs
 author: hightechdevs
 post_date: 2017-02-06 23:06:25
 post_excerpt: ""
