@@ -5,7 +5,7 @@ author: whitleyblaine
 post_date: 2017-02-06 20:12:28
 post_excerpt: ""
 layout: page
-permalink: http://www.hightechdevs.com/hightechdevs
+permalink: http://www.hightechdevs.com/about-us
 published: true
 eg_sources_html5_mp4:
   - ""
