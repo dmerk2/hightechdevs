@@ -71,7 +71,7 @@ yst_prominent_words_version:
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://jerry-and-harveys.herokuapp.com/" target="_blank" rel="nofollow" title="Jerry and Harveys"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/jerry_harveys.jpg" alt="Jerry and Harvey's" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Jerry and Harveys!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://jerry-and-harveys.herokuapp.com/" target="_blank" rel="" title="Jerry and Harveys"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/jerry_harveys.jpg" alt="Jerry and Harvey's" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Jerry and Harveys!</span>[/caption]
 
 [/x_slide][x_slide]
 
