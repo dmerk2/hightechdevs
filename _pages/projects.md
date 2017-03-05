@@ -75,7 +75,7 @@ yst_prominent_words_version:
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://news--cloud.herokuapp.com/" target="_blank" rel="News Cloud"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/newsCloud.jpg" alt="News Cloud" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">News Cloud!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://news--cloud.herokuapp.com/" target="_blank" rel="" title="Newscloud"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/newsCloud.jpg" alt="News Cloud" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">News Cloud!</span>[/caption]
 
 [/x_slide][x_slide]
 
