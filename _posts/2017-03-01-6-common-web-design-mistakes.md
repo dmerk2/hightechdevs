@@ -47,4 +47,4 @@ It is my hope that you found this blog post useful in improving your web design
 
 <img class="alignleft wp-image-697 size-full" src="http://hightechdevs.com/wp-content/uploads/14440950_306137739754078_7138612908098277376_n.jpg" width="48" height="48" />
 
-<strong>Whitley Horn</strong> is the co-founder of High Tech and a passionate web developer, Bitcoin fanatic and smoothie maker. He uses Wordpress to build most of his professional sites, but loves working on side projects in Node.js. You can contact him at htdevs@gmail.com.
+<strong>Whitley Horn</strong> is the co-founder of High Tech Devs and a passionate web developer, Bitcoin fanatic and smoothie maker. He uses Wordpress to build most of his professional sites, but loves working on side projects in Node.js. You can contact him at htdevs@gmail.com.
