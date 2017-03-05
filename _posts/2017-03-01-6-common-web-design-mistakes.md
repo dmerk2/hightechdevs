@@ -17,7 +17,7 @@ slide_template:
 wpms_validate_analysis:
   - ""
 ---
-<div id="lo136"><a class="sq_local" title="New to Web Design?  Here's 4 HUGE Mistakes You're Probably Making -- and How You Can Fix Them!" href="http://www.hightechdevs.com/blog/6-common-web-design-mistakes" rel="nofollow">http://hightechdevs.com</a></div>
+<div id="lo136"><a class="sq_local" title="New to Web Design? Here's 4 HUGE Mistakes You're Probably Making -- and How You Can Fix Them!" href="http://www.hightechdevs.com/blog/6-common-web-design-mistakes" rel="nofollow">http://hightechdevs.com</a></div>
 <div></div>
 Here at <a title="High Tech Devs Blog" href="http://hightechdevs.com/blog" rel="">High Tech Web Design</a>, we see a LOT of bad websites. This is because most coders fail to learn proper design skills, and most designers fail to get good at coding. Given the alternative of hiring someone else, these problems are brushed under the rug, leaving the website littered with problems.
 
