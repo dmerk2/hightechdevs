@@ -59,7 +59,7 @@ yst_prominent_words_version:
 
 [/x_slide][x_slide]
 
-[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://comfy-cafe.herokuapp.com/" target="_blank" rel="Comfy Cafè"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/comfy-cafe.jpg" alt="comfy cafe" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Comfy Cafè!</span>[/caption]
+[caption id="attachment_48" align="alignnone" width="1279"]<a href="https://comfy-cafe.herokuapp.com/" target="_blank" rel="" title="Comfy Cafe"><img class="wp-image-48 size-full" src="http://hightechdevs.com/wp-content/uploads/comfy-cafe.jpg" alt="comfy cafe" width="1279" height="778" /></a> <span style="color: #993300; font-size: 2em;">Comfy Cafè!</span>[/caption]
 
 [/x_slide][x_slide]
 
