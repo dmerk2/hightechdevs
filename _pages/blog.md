@@ -47,4 +47,6 @@ yst_prominent_words_version:
   - "1"
 slide_template:
   - ""
+wpms_validate_analysis:
+  - ""
 ---
