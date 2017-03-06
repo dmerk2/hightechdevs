@@ -1,14 +1,12 @@
 ---
 ID: 23
-post_title: >
-  WordPress,Responsive Design and SEO
-  Specialists
+post_title: Web Design Specialists
 author: whitleyblaine
 post_date: 2017-02-06 20:12:08
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.hightechdevs.com/wordpress-responsive-design-seo
+  http://www.hightechdevs.com/web-design-specialists
 published: true
 eg_sources_html5_mp4:
   - ""
