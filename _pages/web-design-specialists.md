@@ -1,6 +1,6 @@
 ---
 ID: 23
-post_title: Web Specialists
+post_title: Speciaties
 author: whitleyblaine
 post_date: 2017-02-06 20:12:08
 post_excerpt: ""
