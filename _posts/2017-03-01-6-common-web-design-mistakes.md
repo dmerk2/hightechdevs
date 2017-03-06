@@ -6,7 +6,7 @@ post_date: 2017-03-01 00:33:04
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.hightechdevs.com/web-design/6-common-web-design-mistakes
+  http://www.hightechdevs.com/blog/6-common-web-design-mistakes
 published: true
 yst_prominent_words_version:
   - "1"
