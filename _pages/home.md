@@ -111,22 +111,22 @@ apss_content_flag:
  	<li>Distinctive Strategy For Your Business's Growth</li>
  	<li>Responsive Web Design</li>
  	<li>Website Design and Development</li>
- 	<li>Websites Re-Design and Updating</li>
+ 	<li>Re-Design and/or Up-To-Date</li>
 </ul>
 [/cs_block_grid_item][cs_block_grid_item title="Customer Service"]
 <h3 style="text-align: center;"><span style="color: #800000;">CUSTOMER SERVICE</span></h3>
 <ul>
  	<li style="text-align: left;">Excellent Troubleshooting</li>
  	<li style="text-align: left;">24/7 Availability</li>
- 	<li style="text-align: left;">Clear Communication Skills</li>
- 	<li style="text-align: left;">Time Management Expertise</li>
+ 	<li style="text-align: left;">Clear Communication</li>
+ 	<li style="text-align: left;">Time Management Skills</li>
 </ul>
 [/cs_block_grid_item][cs_block_grid_item title="Management"]
 <h3 style="text-align: center;"><span style="color: #800000;">MANAGEMENT</span></h3>
 <ul>
- 	<li><span style="color: #000000;">Web Hosting</span></li>
+ 	<li><span style="color: #000000;">Site Hosting</span></li>
  	<li><span style="color: #000000;">WebSite Maintenance</span></li>
- 	<li><span style="color: #000000;">Site Analysis</span></li>
- 	<li>Up To Date With New Search Engine Algorithms for SEO</li>
+ 	<li><span style="color: #000000;">Web Analysis</span></li>
+ 	<li>Current on Search Engine Algorithms for SEO</li>
 </ul>
 [/cs_block_grid_item][/cs_block_grid][/cs_column][/cs_row][/cs_section][cs_section parallax="false" class="cs-ta-center" style="margin: 0px;padding: 0 0px 45px;"][cs_row inner_container="true" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/1" style="padding: 0px;"][x_button shape="pill" size="global" block="false" circle="false" icon_only="false" href="/contact-us/" title="Contact us" target="" info="none" info_place="top" info_trigger="hover" info_content=""][x_icon type="phone" class="mvn mln mrs"]Contact Us Today[/x_button][/cs_column][/cs_row][/cs_section][/cs_content]
