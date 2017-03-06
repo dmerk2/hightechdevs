@@ -23,7 +23,7 @@ Here at <a title="High Tech Devs Blog" href="http://hightechdevs.com/blog" rel="
 
 If you regularly avoid these 4 common <strong>web design mistakes</strong>, you can rest assured that your sites are ahead of the curve. If you don't, no worries -- your newfound awareness will help you avoid making these mistakes in the future.
 <h3>1. Unresponsive text/photos</h3>
-<img class="alignleft wp-image-700 size-medium" title="unresponsive design" src="http://www.hightechdevs.com/wp-content/uploads/responsive-vs-unresponsive-website-1-300x225.jpg" alt="unresponsive" width="300" height="225" />
+<img class="alignleft wp-image-700 size-medium" title="web design mistakes" src="http://www.hightechdevs.com/wp-content/uploads/responsive-vs-unresponsive-website-1-300x225.jpg" alt="web design mistakes" width="300" height="225" />
 
 Websites that display poorly on mobile devices are <em>everywhere.</em> This is bad news for the people who designed them, because <em>most</em> visitors to a website will be using their phones. If the page doesn't display properly, or at least legibly, users will be quick to leave.
 
@@ -45,7 +45,7 @@ Also, if your images are full size from a camera, they are probably way too big.
 
 If you're coding from scratch, be sure to eliminate any unnecessary or buggy code, and minify your lengthy files. Also be wary of content hosted elsewhere, perhaps provided to you by a CDN, as well as information retrieved using an API. This content may stopped being delivered at any point due to events outside your control. You need to check your site regularly to ensure they don't have any bugs you've been missing.
 <h3>4. Bad fonts</h3>
-<img class="size-medium wp-image-704 alignleft" src="http://www.hightechdevs.com/wp-content/uploads/badfonts-1-300x217-1.png" alt="" width="300" height="217" />
+<img class="alignleft wp-image-704 size-medium" title="ugly fonts" src="http://www.hightechdevs.com/wp-content/uploads/badfonts-1-300x217.png" alt="ugly fonts" width="300" height="217" />
 Unique fonts look great when used well, but the opposite is also true. If your fonts look outdated or inappropriate, they will detract massively from your message. If in doubt, find similar websites and use their fonts. You can inspect the text in your browser's developer tools, and search its CSS rules for 'font-family.' <a title="Google Fonts" href="https://fonts.google.com" rel="">Google has a wonderful selection of fonts</a>, and they're free to use! <span style="font-family: 'Curlz MT'; font-size: 1.5em;">One thing to make sure of is that the font matches the mood of the text.</span> I rest my case.
 It is my hope that you found this blog post useful in improving your web design skills. If you are in need of a website, but aren't having an easy time doing it yourself, <a title="High Tech Devs Blog" href="http://hightechdevs.com/blog" rel="">let us do it for you</a>! You'll be happy with the result -- we guarantee it!
 
