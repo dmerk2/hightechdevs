@@ -76,8 +76,7 @@ wpms_validate_analysis:
   - ""
 ---
 [cs_content][cs_section parallax="false" style="margin: 0px;padding: 45px 0px;"][cs_row inner_container="false" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/1" style="padding: 0px;"][cs_text]
-<h1 style="text-align: center;"><span style="color: #ff9900;"><strong>-- Expertise In... --</strong></span></h1>
-<h2 style="text-align: center;"><span style="color: #ff6600;">-- SEO, Wordpress and Responsive Design --</span></h2>
+<h1 style="text-align: center;"><span style="color: #ff9900;"><strong>-- Specialists In... --</strong></span></h1>
 [/cs_text][/cs_column][/cs_row][/cs_section][cs_section parallax="false" style="margin: 0px;padding: 0px;"][cs_row inner_container="false" marginless_columns="true" class="cs-ta-justify" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/2" style="padding: 0;"][cs_text style="padding-right: 2em;"]
 <h2 style="text-align: center; margin-top: 0;"><span style="color: #ff6600;">SEO</span></h2>
 We are highly skilled and efficient in <span style="color: #000000;">SEO (Search Engine Optimization)</span> and<span style="color: #000000;"> SERP</span>  (Search Engine Results Page) analysis. <span style="color: #993300;"> </span>This directly results to your website search ranking so that potential customers are more prone to find you. When people search for businesses like yours, we want them to find <em>you </em><span style="color: #993300;"><strong>first</strong></span>!  After all, 93% of web sessions begin with using a search engine, like Google. That being said, the higher Google ranks your website, the more people will see it when searching for related topics.
