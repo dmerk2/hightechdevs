@@ -1,6 +1,6 @@
 ---
 ID: 19
-post_title: Contact HighTechDevs Today
+post_title: Contact
 author: hightechdevs
 post_date: 2017-02-05 20:29:25
 post_excerpt: ""
